@@ -35,6 +35,9 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsyrenayushiev&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
