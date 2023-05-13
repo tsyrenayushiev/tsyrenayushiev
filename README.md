@@ -10,7 +10,6 @@
 
 Я начинающий аналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Закончил Новосибирский государственный университет на механико-математическом факультете в 2020 году со степенью магистра. Во время обучения изучал 
 такие языки программирования как python, c++, java и думал стать разработчиком, но потом понял, что это не совсем мое. После обучения взял небольшой перерыв и начал работать преподавателем математики в Skyeng (2020-2023). В настоящий момент прохожу курсы от Skypro на аналитика данных.
-В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
 :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-tsyren_ayushiev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tsyrenayushiev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tsyren.ayushiev97@gmail.com)
 
